@@ -1054,3 +1054,12 @@ h4 {
 .fs-15 {
     font-size: 15px;
 }
+
+.citation { 
+    font-style: italic;
+    font-size: 1.8rem;
+}
+
+.autor {
+    font-size: 1.8rem;
+}
